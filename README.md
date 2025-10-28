@@ -4,9 +4,13 @@
 
 El jugador controla un pequeño cuadrado azul que debe **moverse lateralmente para esquivar enemigos** (cuadrados rojos) mientras **recoge monedas** (amarillas) para ganar puntos.  
 
+![Gameplay Screenshot](assets/screenshot_gameplay.png)
+
 A medida que el tiempo avanza, los enemigos aumentan su velocidad, lo que introduce una **dificultad progresiva** que pone a prueba tus reflejos.  
 
 El juego incluye un **menú principal**, **pausa**, y **pantalla de Game Over**, con una estructura de estados bien definida.
+
+![Main Menu Screenshot](assets/screenshot_menu.png)
 
 Ideal para demostrar conceptos básicos de **programación de videojuegos 2D**, manejo de **eventos**, **colisiones**, **listas dinámicas**, y control del flujo de ejecución mediante **bucles y condicionales**.
 
