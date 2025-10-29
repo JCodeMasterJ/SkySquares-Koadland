@@ -68,7 +68,7 @@ draw_menu, draw_pause, draw_gameover
   
 ---
 
-## 🎨 Paleta de colores (una sola y consistente)
+## 🎨 Paleta de colores 
 
 - Fondo: `#12121C`  
 - Panel HUD: `#1E1E2D`  
